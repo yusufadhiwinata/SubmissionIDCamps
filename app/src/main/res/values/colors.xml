@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#1B2838</color>
+    <color name="blue_navy">#18222B</color>
+    <color name="font">#41B6F4</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="whiteColor">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="grayColor">#707070</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="purple_500">#9c27b0</color>
+    <color name="deep_purple_500">#673ab7</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="cyan_500">#00bcd4</color>
+    <color name="light_blue_500">#03a9f4</color>
+    <color name="sea">#2b5876</color>
+    <color name="blue">#4e4376</color>
+    <color name="purple">#cc2b5e</color>
+    <color name="love">#753a88</color>
+</resources>

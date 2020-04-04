@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+    <string name="txt_player">Title</string>
+    <string name="description">Description :</string>
+    <string name="salary">Salary :</string>
+    <string name="current_club">Current Club :</string>
+    <string name="txt_detail_player">Title</string>
+    <string name="bod_player">Birth Of Date :</string>
+    <string name="skills_and_goal_video">Skills and Goals Video :</string>
+    <string name="yusuf_adhiwinata">Yusuf Adhiwinata</string>
+    <string name="yusufadhiwinata">yusufadhiwinata_</string>
+</resources>
